@@ -1,0 +1,58 @@
+/* body {
+    margin: 0;
+    padding: 0;
+} */
+
+.container{
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.greybox{
+    width: 100%;
+    text-align: center
+}
+
+.searchbar{
+    width: 25%;
+    /* margin-right: auto; */
+    /* margin-left: auto;  */
+    margin: 0 auto;
+    /* padding-bottom: px; */
+
+}
+
+.bg-grey{
+    background-color: rgb(193, 193, 193);
+}
+
+.ilkkutu{
+    background-color: rgb(140, 206, 201);
+    width: 37%;
+    height: 100px; 
+    float: left;
+    margin: 1px;
+}
+
+.ikincikutu{
+    background-color: rgba(140, 206, 201, 0.803);
+    width: 11.6%;
+    height: 100px;
+    float: left;
+    margin: 1px;
+}
+
+.ucuncukutu{
+    background-color: rgba(140, 206, 201, 0.423);
+    width: 51%;
+    height: 100px;
+    float: left;
+    margin: 1px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}

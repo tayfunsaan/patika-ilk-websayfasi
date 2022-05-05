@@ -1,42 +1,11 @@
-body{
-    background-color: rgb(248, 229, 198);
-    font-family: 'Koulen', cursive;
-    font-family: 'Poppins', sans-serif;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    border: 5px solid #640f5a;
-}
-
-h1 {
-    color: rgb(126, 27, 27);
-    font-size: 35px;
-    text-align: center;
-}
-
-h2{
-    color:rgb(168, 104, 165);
-    font-size: 30px;
-    text-align: center;
-}
-
-p{
-    color: rgb(0, 0, 0);
-    font-size: 15px;
-    text-align: center;
+.main-text {
     font-style: italic;
-    text-shadow: 0 0 2px rgb(114, 62, 62);
-}
-
-section{
-    color: rgb(0, 0, 0);
-    font-size: 15px;
-    text-align: center;
-    /* font-style: italic; */
-    text-shadow: 0 0 2px rgb(154, 58, 58);
-    list-style-position: inside;
-}
+    }
+    
+    .intro {
+    color:red;
+    }
+    
+    #outro {
+    color:green;
+    }
